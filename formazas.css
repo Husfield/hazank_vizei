@@ -58,4 +58,7 @@ main {
         width: 100%;
         
     }
+    .vizeink{
+        grid-template-columns: 1fr;
+    }
 }
